@@ -1,0 +1,5 @@
+name: global-benefit-eligibility-env
+description: AI agent for benefit eligibility and fraud detection
+version: 1.0
+
+entrypoint: app.env:WelfareEnv
