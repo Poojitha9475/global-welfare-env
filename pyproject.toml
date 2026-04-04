@@ -1,0 +1,12 @@
+[project]
+name = "global-welfare-env"
+version = "0.1.0"
+description = "Global Welfare Eligibility & Fraud Detection OpenEnv"
+authors = [
+    { name = "Poojitha" }
+]
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic"
+]
